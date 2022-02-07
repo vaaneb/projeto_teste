@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projeto Ruby on Rails 7.0.1
+
+Esse projeto tem como intuito testar a criaçao de uma API, a partir do Ruby on Rails seguindo as orientações dessa playlist: https://www.youtube.com/playlist?list=PLqsayW8DhUmuvgOX08aXYk6Y-HGrdYg20
 
 Things you may want to cover:
 
