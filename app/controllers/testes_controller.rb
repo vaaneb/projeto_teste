@@ -1,5 +1,5 @@
 class TestesController < ApplicationController
-  http_basic_authenticate_with name: "vanessa", password: "testando", except: [:index, :show]
+
   before_action :set_testis, only: %i[ show edit update destroy ]
 
   # GET /testes or /testes.json
@@ -8,7 +8,7 @@ class TestesController < ApplicationController
   end
 
   # GET /testes/1 or /testes/1.json
-  def show
+  def show;
   end
 
   # GET /testes/new
@@ -17,7 +17,7 @@ class TestesController < ApplicationController
   end
 
   # GET /testes/1/edit
-  def edit
+  def edit;
   end
 
   # POST /testes or /testes.json
